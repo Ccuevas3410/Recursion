@@ -1,2 +1,2 @@
 # Recursion
-Recursion simple mathematical equations
+Simple mathematical equations in Recursion.
